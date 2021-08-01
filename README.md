@@ -28,7 +28,7 @@ A readme file os the placee where a project creator communicates with future use
 ## Usage
 
 Answer the prompt questions: click enter to move to the next question. 
-![mock-up](./img/readme-generator)
+![mock-up](./img/readme-generator.gif)
 Once you have answered all the questions a markdown page will be generated for you! It will be named REAME.md.
 
 ### Contribution
