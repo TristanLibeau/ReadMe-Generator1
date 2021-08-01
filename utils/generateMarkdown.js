@@ -11,17 +11,17 @@ function generateMarkdown(data) {
 - [Contribution](#contribution)
 - [Test Instructions](#test-instructions)
 - [Contact Information](#contact-information)
-### Description
+## Description
 ${data.description}
 ### Installation
 ${data.installation}
-### Usage
+## Usage
 ${data.usage}
-### Contribution
+## Contribution
 ${data.contribution}
-### Test-Instructions
+## Test-Instructions
 ${data.tests}
-### Contact-Information
+## Contact-Information
 [Github Profile](https://github.com/${data.username})
 ${data.email}
 `;
